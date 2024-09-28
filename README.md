@@ -1,5 +1,6 @@
 
 ## Overview
+![cover](https://github.com/user-attachments/assets/3c87c565-02df-4b52-b11d-cac87f30b7fa)
 
 Word Analytics is a React application that keeps track of each word and character you type. It provides real-time statistics and warnings for specific input validations.
 
