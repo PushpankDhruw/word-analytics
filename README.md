@@ -1,8 +1,44 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+Word Analytics is a React application that keeps track of each word and character you type. It provides real-time statistics and warnings for specific input validations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technology Used
+
+- ⚛️ React
+- ⚡ Vite
+- 🛠️ ESLint
+- 📦 Babel
+- 🚀 SWC
+
+## Features
+
+- Real-time word and character count
+- Character limit tracking for Instagram and Facebook
+- Input validation with warnings
+- Responsive design
+
+## How to Get Started
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/word-analytics.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd word-analytics
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Start the development server:
+   ```
+   npm run dev
+   ```
+5. Open your browser and go to:
+   ```
+   http://localhost:3000
+   ```
+
+Enjoy using Word Analytics to keep track of your words and characters!
